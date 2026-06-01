@@ -51,8 +51,8 @@ This agent automates that research. It pulls real current postings, distils the 
 Runs with no API keys (uses the committed snapshot and ESCO index). Needs Python 3.11.
 
 ```bash
-git clone https://github.com/elyokerr/Projects.git
-cd Projects/career-gap-agent
+git clone https://github.com/elyokerr/career-gap-agent.git
+cd career-gap-agent
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows. On macOS/Linux: source .venv/bin/activate
